@@ -26,7 +26,7 @@
 	  			<div class="row">
 
 	  				<div class="column">
-	  					<img src="" style="width:60%">
+	  					<img src="IMAGE" style="width:60%">
 	  					<h5>TITLE</h5>
 	  					<h5>by AUTHOR</h5>
 	  					<!-- SHOW STAR RATINGS -->
@@ -35,7 +35,7 @@
 	  				</div>
 
 	  				<div class="column">
-	  					<img src="" style="width:60%">
+	  					<img src="IMAGE" style="width:60%">
 	  					<h5>TITLE</h5>
 	  					<h5>by AUTHOR</h5>
 	  					<!-- SHOW STAR RATINGS -->
@@ -44,7 +44,7 @@
 	  				</div>
 
 	  				<div class="column">
-	  					<img src="" style="width:60%">
+	  					<img src="IMAGE" style="width:60%">
 	  					<h5>TITLE</h5>
 	  					<h5>by AUTHOR</h5>
 	  					<!-- SHOW STAR RATINGS -->
